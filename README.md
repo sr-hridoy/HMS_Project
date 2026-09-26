@@ -68,8 +68,8 @@ HMS_Project/
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/sr-hridoy/HMS_Project.git
-   cd HMS_Project
+   git clone https://github.com/sr-hridoy/hospital-management-system.git
+   cd hospital-management-system
    ```
 
 2. **Open the project:**
